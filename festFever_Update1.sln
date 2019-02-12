@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "festFever_Update1", "festFever_Update1\", "{88EC449C-39D3-4D45-8B92-44E46A54BD07}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50608"
+		Debug.AspNetCompiler.PhysicalPath = "festFever_Update1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50608\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50608"
+		Release.AspNetCompiler.PhysicalPath = "festFever_Update1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50608\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50608"
+		SlnRelativePath = "festFever_Update1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EC449C-39D3-4D45-8B92-44E46A54BD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EC449C-39D3-4D45-8B92-44E46A54BD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284E4E2B-18F0-4C8F-99DE-A0F18B66AC29}
+	EndGlobalSection
+EndGlobal
